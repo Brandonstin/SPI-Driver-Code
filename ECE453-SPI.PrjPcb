@@ -184,6 +184,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=SPI Title Page.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AQVOTZBZ
+
+[GeneratedDocument1]
+DocumentPath=Output\Design Rule Check - ECE453.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\Altium Base Structure\Libraries\*.*
 IncludeSubFolders=1
