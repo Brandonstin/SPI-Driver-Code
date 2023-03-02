@@ -1,0 +1,61 @@
+Checking if remote manifest is accessible...
+Getting manifests from remote server...
+
+Found environment variable CyRemoteManifestOverride=https://github.com/cypresssemiconductorco/mtb-super-manifest/raw/v2.X/mtb-super-manifest-fv2.xml
+Processing super-manifest https://github.com/cypresssemiconductorco/mtb-super-manifest/raw/v2.X/mtb-super-manifest-fv2.xml...
+One or more elements/attributes was ignored from manifest https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml. Run using the --verbose flag for additional details.
+Successfully acquired the information.
+Reading project (C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC) information...
+Successfully acquired project information.
+
+Click "Update" to make these changes on the project:
+
+retarget-io: add https://github.com/cypresssemiconductorco/retarget-io 1.4.0 release shared
+INFO - Warning: Multiple versions of "core-make" requested. Keeping version "latest-v1.X" and discarding version "release-v1.9.0".
+Updating project...
+C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/deps/retarget-io.mtb was added
+Running "make getlibs"...
+C:/Infineon/Tools/ModusToolbox/tools_2.4/modus-shell/bin/make.exe getlibs CY_TOOLS_PATHS=C:/Infineon/Tools/ModusToolbox/tools_2.4 QUICK_MODE=1
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_2.4
+CY8CPROTO-063-BLE.mk: ./libs/TARGET_CY8CPROTO-063-BLE/CY8CPROTO-063-BLE.mk
+
+==============================================================================
+= Importing libraries =
+==============================================================================
+Git is git version 2.33.0, found at /usr/bin/git
+
+Searching application directory (.mtb)...
+Found 8 .mtb file(s)
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/deps/TARGET_CY8CPROTO-063-BLE.mtb"
+WARNING: Uncommitted/Untracked files detected in "/cygdrive/c/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/TARGET_CY8CPROTO-063-BLE".
+        Save your work in source control before updating this library.
+        Skipping current reference...
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/deps/retarget-io.mtb"
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/core-lib.mtb"
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/core-make.mtb"
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/mtb-hal-cat1.mtb"
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/mtb-pdl-cat1.mtb"
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/psoc6cm0p.mtb"
+    Processing file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/recipe-make-cat1a.mtb"
+Libraries processed.
+Created file "C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/mtb.mk".
+
+
+==============================================================================
+WARNING: Uncommitted/Untracked files detected in "/cygdrive/c/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC/libs/TARGET_CY8CPROTO-063-BLE".
+        Save your work in source control before updating this library.
+        Skipping current reference...
+
+==============================================================================
+= Import complete =
+==============================================================================
+
+==============================================================================
+
+Successfully updated the project.
+
+==============================================================================
+
+
+Reading project (C:/Users/voravongsa/Documents/SPI_Drivers/SPI_EEPROM_PSOC) information...
+Successfully acquired project information.

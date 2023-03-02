@@ -7,6 +7,7 @@
 #include "cy_pdl.h"
 #include "cyhal.h"
 #include "cybsp.h"
+#include "eeprom.h"
 
 /* Macros */
 /* ADD CODE */
@@ -18,6 +19,7 @@
 
 /* Public Global Variables */
 extern cyhal_spi_t mSPI;
+extern cy_rslt_t rslt;
 
 
 
